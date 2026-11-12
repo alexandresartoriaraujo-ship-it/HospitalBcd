@@ -821,7 +821,29 @@ GROUP BY p.nome_paciente;
 
 ## Imagens
 
-<img width="1027" height="650" alt="Captura de tela 2026-11-12 090418" src="https://github.com/user-attachments/assets/72c23e12-8a5a-4b8b-ba1e-7279955cf7fa" />
+
+<img width="887" height="506" alt="Captura de tela 2026-11-12 090032" src="https://github.com/user-attachments/assets/54381277-69b9-44b5-86a6-cbaaf9b87653" />
+
+<img width="960" height="562" alt="Captura de tela 2026-11-12 090051" src="https://github.com/user-attachments/assets/ad0c662a-ce10-44e9-b55b-a66260143b06" />
+
+<img width="968" height="581" alt="Captura de tela 2026-11-12 090122" src="https://github.com/user-attachments/assets/3e4b6ca8-b265-4095-8835-1f215bb248f7" />
+
+<img width="1013" height="693" alt="Captura de tela 2026-11-12 090149" src="https://github.com/user-attachments/assets/671b32ee-1609-42d0-b872-eaf644fb9b11" />
+
+<img width="830" height="616" alt="Captura de tela 2026-11-12 090203" src="https://github.com/user-attachments/assets/fab82354-d63b-42e1-b12c-16028070b866" />
+
+<img width="978" height="612" alt="Captura de tela 2026-11-12 090225" src="https://github.com/user-attachments/assets/f4ba182b-2d0d-46d9-a761-dd01e4f96f4c" />
+
+<img width="1020" height="688" alt="Captura de tela 2026-11-12 090252" src="https://github.com/user-attachments/assets/00e528a4-7c3d-4d86-bef2-62e490fe475b" />
+
+<img width="891" height="663" alt="Captura de tela 2026-11-12 090311" src="https://github.com/user-attachments/assets/6a85a80c-bf77-4b23-bacc-0afb73f59c66" />
+
+<img width="877" height="709" alt="Captura de tela 2026-11-12 090404" src="https://github.com/user-attachments/assets/80bc78d0-7759-43ee-a938-29f58e65ba54" />
+
+<img width="1027" height="650" alt="Captura de tela 2026-11-12 090418" src="https://github.com/user-attachments/assets/56a0cbee-13fa-47cf-894b-fe9c94a093bc" />
+
+
+
 
 
 
