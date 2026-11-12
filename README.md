@@ -805,6 +805,8 @@ GROUP BY p.nome_paciente;
 | `'texto%'` | começa com o texto | `'M%'` |
 | `'%texto'` | termina com o texto | `'% Silva'` |
 
+## por: Alexandre sartori de araujo
+
 ---
 
 ## 📌 Observações importantes
